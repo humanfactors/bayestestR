@@ -1,0 +1,21 @@
+pandoc: '3.3'
+pkgdown: 2.1.0.9000
+pkgdown_sha: ee72108bc3a9827dcf313817525652dbd9d4284d
+articles:
+  bayes_factors: bayes_factors.html
+  bayestestR: bayestestR.html
+  credible_interval: credible_interval.html
+  example1: example1.html
+  example2: example2.html
+  example3: example3.html
+  guidelines: guidelines.html
+  web_only/indicesEstimationComparison: web_only/indicesEstimationComparison.html
+  indicesExistenceComparison: indicesExistenceComparison.html
+  mediation: mediation.html
+  overview_of_vignettes: overview_of_vignettes.html
+  probability_of_direction: probability_of_direction.html
+  region_of_practical_equivalence: region_of_practical_equivalence.html
+last_built: 2024-08-28T08:59Z
+urls:
+  reference: https://easystats.github.io/bayestestR/reference
+  article: https://easystats.github.io/bayestestR/articles
